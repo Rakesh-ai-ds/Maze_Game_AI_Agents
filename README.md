@@ -402,13 +402,13 @@ We welcome contributions! Here's how you can help:
 - Test on multiple browsers and devices
 
 ### Areas for Contribution
-- 🎨 New level designs and maze layouts
-- 🎵 Additional sound effects and music
-- ⚡ New power-ups and game mechanics
-- 🤖 Enhanced AI pathfinding algorithms
-- 📱 Mobile controls and optimization
-- 🌐 Multiplayer functionality
-- 🎯 Achievement system
+-  New level designs and maze layouts
+-  Additional sound effects and music
+-  New power-ups and game mechanics
+-  Enhanced AI pathfinding algorithms
+-  Mobile controls and optimization
+-  Multiplayer functionality
+-  Achievement system
 
 ## 📄 License
 
@@ -430,7 +430,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Three.js Community** - Amazing 3D graphics library
 - **React Three Fiber** - Seamless React integration
